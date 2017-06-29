@@ -7,7 +7,7 @@
 
 - 属性动画
 
-- java.Math
+- java.lang.Math下面的asin(),acos();
 ---
 
 # 附件：
