@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgressView">
+        <attr name="titleSize" format="integer"/>
+        <attr name="titleColor" format="color"/>
+        <attr name="textFont" format="string"/>
+        <attr name="viewSize" format="integer"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="bgColor" format="color"/>
+        <attr name="scaleTextSize" format="integer"/>
+        <attr name="scaleAmount" format="integer"/>
+        <attr name="dataColor" format="color"/>
+        <attr name="dataSize" format="integer"/>
+        <attr name="unitSize" format="integer"/>
+        <attr name="unitColor" format="color"/>
+        <attr name="unit" format="string"/>
+    </declare-styleable>
+</resources>
